@@ -1,0 +1,24 @@
+c:\users\mazen\documents\visual studio 2013\Projects\lexical\lexical\bin\Debug\lexical.exe.config
+c:\users\mazen\documents\visual studio 2013\Projects\lexical\lexical\obj\Debug\lexical.csprojResolveAssemblyReference.cache
+c:\users\mazen\documents\visual studio 2013\Projects\lexical\lexical\bin\Debug\lexical.exe
+c:\users\mazen\documents\visual studio 2013\Projects\lexical\lexical\bin\Debug\lexical.pdb
+c:\users\mazen\documents\visual studio 2013\Projects\lexical\lexical\obj\Debug\lexical.exe
+c:\users\mazen\documents\visual studio 2013\Projects\lexical\lexical\obj\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\lexical\lexical\lexical\bin\Debug\lexical.exe.config
+C:\Users\lenovo\Desktop\lexical\lexical\lexical\obj\Debug\lexical.exe
+C:\Users\lenovo\Desktop\lexical\lexical\lexical\obj\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\lexical\lexical\lexical\bin\Debug\lexical.exe
+C:\Users\lenovo\Desktop\lexical\lexical\lexical\bin\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\lexical\lexical\lexical\obj\Debug\lexical.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\cd lab\lexical\lexical\lexical\bin\Debug\lexical.exe.config
+C:\Users\lenovo\Desktop\cd lab\lexical\lexical\lexical\obj\Debug\lexical.exe
+C:\Users\lenovo\Desktop\cd lab\lexical\lexical\lexical\obj\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\cd lab\lexical\lexical\lexical\bin\Debug\lexical.exe
+C:\Users\lenovo\Desktop\cd lab\lexical\lexical\lexical\bin\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\cd lab\lexical\lexical\lexical\obj\Debug\lexical.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\cdproject\cdproject\lexical\bin\Debug\lexical.exe.config
+C:\Users\lenovo\Desktop\cdproject\cdproject\lexical\obj\Debug\lexical.exe
+C:\Users\lenovo\Desktop\cdproject\cdproject\lexical\obj\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\cdproject\cdproject\lexical\bin\Debug\lexical.exe
+C:\Users\lenovo\Desktop\cdproject\cdproject\lexical\bin\Debug\lexical.pdb
+C:\Users\lenovo\Desktop\cdproject\cdproject\lexical\obj\Debug\lexical.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\MAZEN\Documents\Visual Studio 2013\Projects\lexical\lexical\bin\Release\lexical.exe.config
+C:\Users\MAZEN\Documents\Visual Studio 2013\Projects\lexical\lexical\bin\Release\lexical.exe
+C:\Users\MAZEN\Documents\Visual Studio 2013\Projects\lexical\lexical\bin\Release\lexical.pdb
+C:\Users\MAZEN\Documents\Visual Studio 2013\Projects\lexical\lexical\obj\Release\lexical.exe
+C:\Users\MAZEN\Documents\Visual Studio 2013\Projects\lexical\lexical\obj\Release\lexical.pdb
